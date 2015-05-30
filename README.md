@@ -1,2 +1,2 @@
 # jocoaims.github.io
-Git for Johnson County, KS AIMS team for our open source projects
+Git repository for Johnson County, KS AIMS team for open source projects
